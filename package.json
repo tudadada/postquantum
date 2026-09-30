@@ -1,0 +1,33 @@
+{
+  "name": "postquantum",
+  "version": "1.0.0",
+  "description": "Post-Quantum Cryptography (PQC) utilities, lattice-based key encapsulation heuristics, and quantum-resistant verification standards.",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "postquantum": "./index.js"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "postquantum",
+    "pqc",
+    "quantum-resistant",
+    "cryptography",
+    "security",
+    "lattice"
+  ],
+  "author": "datutu <ceo@dottheworld.com>",
+  "license": "MIT",
+  "files": [
+    "index.js",
+    "README.md",
+    "LICENSE"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tudadada/postquantum.git"
+  },
+  "homepage": "https://github.com/tudadada/postquantum#readme"
+}

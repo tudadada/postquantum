@@ -1,0 +1,5 @@
+{
+  "$schema": "https://glama.ai/mcp/schemas/server.json",
+  "name": "postquantum",
+  "description": "Post-Quantum Cryptography (PQC) utilities, lattice-based key encapsulation heuristics, and quantum-resistant verification standards."
+}

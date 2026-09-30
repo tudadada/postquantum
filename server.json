@@ -1,0 +1,10 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "postquantum",
+  "description": "Post-Quantum Cryptography (PQC) utilities, lattice-based key encapsulation heuristics, and quantum-resistant verification standards.",
+  "repository": {
+    "url": "https://github.com/tudadada/postquantum",
+    "source": "github"
+  },
+  "homepage": "https://github.com/tudadada/postquantum#readme"
+}
